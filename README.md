@@ -27,5 +27,4 @@ A Retrieval-Augmented Generation (RAG) pipeline that can intelligently parse and
 
 ---
 
-## 📂 Project Structure
 
