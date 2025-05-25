@@ -1,7 +1,7 @@
 # PDF_TALKS--📄 Multimodal RAG Pipeline using LangChain, Unstructured & GPT-4o
 
 A Retrieval-Augmented Generation (RAG) pipeline that can intelligently parse and query complex PDFs with **text**, **tables**, and **images** using a multimodal approach. Built with [LangChain](https://github.com/langchain-ai/langchain), [Unstructured](https://github.com/Unstructured-IO/unstructured), and OpenAI's GPT-4o.
-
+ 
 ---
 
 ## 🚀 Features
